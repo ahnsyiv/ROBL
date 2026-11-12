@@ -1,4 +1,4 @@
-# Roblox Controller v0.3
+# ROBL
 
 Window-aware battle macro with checkbox client selection, normal ball/healing controls and persistent diagnostics.
 
